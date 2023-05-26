@@ -10,3 +10,8 @@ and result from viewed from a comparison of Revenue and Rating, Rating 7 has the
 
 
 ![rating_revenue](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/20f0d27a-e5a3-49c2-ab93-8910004a0e8d)
+
+Next, I will analyze the Release Month of movies and revenue. Films released during holiday seasons or summer typically have the potential to generate higher revenue. From the analysis results, it can be observed that December has the highest revenue because it is a holiday season with events like Christmas and New Year. Additionally, May can also be considered to have high revenue due to the summer vacation period.
+
+
+![Revenue_each Month](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/6271fc28-6484-42ee-817b-4ac3eb445713)
