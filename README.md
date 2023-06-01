@@ -16,6 +16,8 @@ Next, I will analyze the Release Month of movies and revenue. Films released dur
 
 ![Revenue_each Month](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/6271fc28-6484-42ee-817b-4ac3eb445713)
 
+R Certificate is the most produced Certificate, this is mean that R is popular Certificate among producers
+
 
 Furthermore, the results of the certificate analysis indicate that PG-13 films generate the highest revenue, followed by R-rated films and PG-rated films. Notably, the revenue difference between PG-13 and R-rated films is significant, amounting to nearly 1 billion dollars.
 
@@ -24,3 +26,21 @@ Furthermore, the results of the certificate analysis indicate that PG-13 films g
 and also, if you look at the TOP 10 Movie Revenue, almost all certificates are PG-13
 
 ![certificate_top_movie](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/be9b60c5-7b59-4b62-b1fe-3fc527cfdb50)
+
+R Certificate is the most produced Certificate, this is mean that R is popular Certificate among producers
+
+![certificate_total](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/fd03afb5-910f-4e86-80c5-e568ac3488f1)
+
+
+Next analis is analyst Revenue Genre, The adventure and action genres occupy the first and second positions in terms of the highest revenue earned. This suggests that movies with these genres tend to be more popular among audiences and generate high income.
+
+![rating_revenue](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/5a47b043-4be9-472e-bd99-1e68be2611f6)
+
+The drama genre is the most widely produced genre. This indicates that drama is still a popular genre among movie producers.
+
+![Genre_Total](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/b8afa870-30e7-4ab0-8ead-952f41817c7e)
+
+Stars can affect the attractiveness of a film and its earning potential. Films starring a star cast may have greater appeal to audiences and potentially generate more revenue. from the results of the analysis of Robert Downey Jr. get the highest revenue.
+
+![stras](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/f42be147-1caa-44c1-a959-ebf370f80633)
+
