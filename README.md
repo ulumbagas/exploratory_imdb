@@ -40,7 +40,15 @@ The drama genre is the most widely produced genre. This indicates that drama is 
 
 ![Genre_Total](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/b8afa870-30e7-4ab0-8ead-952f41817c7e)
 
-Stars can affect the attractiveness of a film and its earning potential. Films starring a star cast may have greater appeal to audiences and potentially generate more revenue. from the results of the analysis of Robert Downey Jr. get the highest revenue.
+Stars and Directors can affect the attractiveness of a film and its earning potential. Films directed by well-known directors or starring actors may have greater appeal to audiences and potentially generate greater revenue. from the results of the analysis of Robert Downey Jr. is an actor with the highest Revenue, Anthony Russo and Joe Russo are Directors with the highest Revenue 
 
 ![stras](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/f42be147-1caa-44c1-a959-ebf370f80633)
+
+![directors](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/039d5069-8168-47e7-9f9e-592cf11ef488)
+
+movie locations can also impact a movie's revenue. Some locations may be more appealing to audiences and can increase the appeal of the film. United States is the highest Country of origin.
+
+
+![location](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/7a652870-862f-4ce8-895f-15e060ed235a)
+
 
