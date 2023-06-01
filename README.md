@@ -15,3 +15,12 @@ Next, I will analyze the Release Month of movies and revenue. Films released dur
 
 
 ![Revenue_each Month](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/6271fc28-6484-42ee-817b-4ac3eb445713)
+
+
+Furthermore, the results of the certificate analysis indicate that PG-13 films generate the highest revenue, followed by R-rated films and PG-rated films. Notably, the revenue difference between PG-13 and R-rated films is significant, amounting to nearly 1 billion dollars.
+
+![certificate](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/e4f32a09-3c90-4a02-a718-523623c4a98e)
+
+and also, if you look at the TOP 10 Movie Revenue, almost all certificates are PG-13
+
+![certificate_top_movie](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/be9b60c5-7b59-4b62-b1fe-3fc527cfdb50)
