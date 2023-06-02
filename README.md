@@ -52,3 +52,18 @@ movie locations can also impact a movie's revenue. Some locations may be more ap
 ![location](https://github.com/ulumbagas/exploratory_imdb/assets/58242856/7a652870-862f-4ce8-895f-15e060ed235a)
 
 
+Based on the analysis conducted on the IMDb dataset, several conclusions can be drawn:
+
+1. Revenue and Rating: The hypothesis that higher ratings would result in higher revenue is not fully supported. While there is some correlation between rating and revenue, other factors also influence a film's revenue, such as genre, cast, and release timing.
+
+2. Release Month: Films released during holiday seasons, particularly in December, tend to have higher revenue due to events like Christmas and New Year. The summer vacation period, particularly in May, also contributes to high revenue potential.
+
+3. Certificates: PG-13 films generate the highest revenue, followed by R-rated films and PG-rated films. PG-13 films dominate the top 10 movie revenues, indicating their popularity among audiences and their earning potential.
+
+4. Genre: Adventure and action genres tend to generate the highest revenue, suggesting their popularity among audiences. Drama, although not as high in revenue, remains a widely produced genre.
+
+5. Stars and Directors: Films directed by well-known directors or featuring popular actors, such as Robert Downey Jr., can increase the film's appeal and revenue potential.
+
+6. Movie Locations: The United States is the highest country of origin for films, indicating its appeal to audiences. Movie locations can impact a film's revenue by enhancing its attractiveness to viewers.
+
+In summary, the analysis reveals that revenue generation is influenced by a combination of factors, including rating, genre, release timing, certificates, cast, directors, and movie locations. Understanding these factors can help inform decisions in the film industry, such as production choices and marketing strategies, to maximize revenue potential.
